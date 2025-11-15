@@ -1,0 +1,15 @@
+#post{
+    border: 1px solid black;
+    height: 150px;
+    margin: 20px;
+    padding: 10px;
+}
+
+body{
+    margin: 20px;
+}
+
+.btns{
+    padding: 5px;
+}
+
